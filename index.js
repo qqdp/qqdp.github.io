@@ -19,7 +19,7 @@ if(/alert/.test(location.href)){
 	location.href=getUrl();;
 }
 function getUrl() {
-	return myChat('?id={ddndn}%3D&s={wuwuwy}&b=alert(1)&t={dddddwwwnwwnn}');
+	return myChat('?_wv={ddndn}&s={wuwuwy}&time={nn}#x.alert){n}');
 }
 function myChat(s){
 	s = typeof(s) == 'object'?s[Math.floor(Math.random()*s.length)]:s;
